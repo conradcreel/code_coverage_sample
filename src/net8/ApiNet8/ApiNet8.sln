@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiNet8", "ApiNet8\ApiNet8.csproj", "{7454387B-04E2-48FC-AC4C-7BCB3E608642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiNet8.Tests", "..\ApiNet8.Tests\ApiNet8.Tests.csproj", "{0F5D2DCA-AE82-42B9-B6AF-7893F68F4046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7454387B-04E2-48FC-AC4C-7BCB3E608642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7454387B-04E2-48FC-AC4C-7BCB3E608642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7454387B-04E2-48FC-AC4C-7BCB3E608642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7454387B-04E2-48FC-AC4C-7BCB3E608642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5D2DCA-AE82-42B9-B6AF-7893F68F4046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5D2DCA-AE82-42B9-B6AF-7893F68F4046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5D2DCA-AE82-42B9-B6AF-7893F68F4046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5D2DCA-AE82-42B9-B6AF-7893F68F4046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E7D0553-3443-46AE-8BFB-FC0EA9DE5135}
+	EndGlobalSection
+EndGlobal
